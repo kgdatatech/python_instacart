@@ -35,7 +35,7 @@ Utilize open-source data sets from Instacart, including customer data. Refer to 
 <img width="417" alt="orders dow reference" src="https://github.com/kgdatatech/python_instacart/assets/138264218/807a94d6-86ab-44f3-aec8-b38b0391104f">
 
 ## Tools
-- Utilizing the latest versions of Anaconda, Jupyter Notebook, and Python.
+- Utilizing the latest versions of MS Excel, Anaconda, Jupyter Notebook, and Python.
 
 Note: Instacart is a real company that’s made their data available online. However, the contents of this project brief
 have been fabricated for the purpose of this Achievement.
